@@ -1,4 +1,4 @@
-    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=TU%20NOMBRE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />    
 
 
 
