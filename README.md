@@ -7,3 +7,6 @@ I'm. Me.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMonferranNewDev&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=ffffff&text_color=cccccc&hide_border=false&langs_count=8" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarcosMonferranNewDev&show_icons=true&theme=dark&bg_color=000000&border_color=333333&icon_color=888888&title_color=ffffff&text_color=cccccc&hide_border=false" />
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosMonferranNewDev&theme=github-compact&bg_color=000000&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true" />
