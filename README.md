@@ -1,6 +1,4 @@
     
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" align="right">
-
 
 
 
@@ -10,6 +8,7 @@
 ## About
 
 I'm. Me.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" align="right">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMonferranNewDev&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=ffffff&text_color=cccccc&hide_border=false&langs_count=8" />
 
