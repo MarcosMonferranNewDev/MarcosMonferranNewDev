@@ -1,5 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=header&text=TU%20NOMBRE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" align="right">
+
 
 # Hi there 
 
