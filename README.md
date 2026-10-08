@@ -5,3 +5,5 @@
 I'm. Me.
 
 <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=dark&bg_color=000000&border_color=333333&icon_color=888888&title_color=ffffff&text_color=cccccc&hide_border=false" />
